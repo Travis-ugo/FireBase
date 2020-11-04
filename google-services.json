@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "541964344882",
+    "firebase_url": "https://khalid-april.firebaseio.com",
+    "project_id": "khalid-april",
+    "storage_bucket": "khalid-april.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541964344882:android:70df8ab03b9f8d2a4ba62b",
+        "android_client_info": {
+          "package_name": "com.Travis.love_life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541964344882-78s5jsrta68nb4ngsb55vqfiub60ip5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJjOLISlnV2e7-JAWvztNDSHmQVbmyC4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541964344882-78s5jsrta68nb4ngsb55vqfiub60ip5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
